@@ -21,8 +21,3 @@ To run the code, you will need the following Python libraries:
 - `seaborn`
 - `scikit-learn`
 - `xgboost`
-
-## Academic Integrity Statement
-All code presented in the final version and the development history is my own work, except where explicitly cited through comments. Standard library functions and documentation from Scikit-Learn and XGBoost were used as references for implementation.
-README.md
-Displaying README.md.
